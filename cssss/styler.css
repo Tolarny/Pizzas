@@ -1,0 +1,372 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+.black{
+    background: linear-gradient(120.56deg, rgba(136, 83, 83, 0.29) -30.43%, #000000 50.42%);
+   width: 1440px;
+    height: 73vh;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 30px;
+}
+.ul-child{
+  display: inline;
+  list-style: none;
+  color:  #fff;
+  margin: 0px 10px;
+}
+.order{
+    display: inline;
+  list-style: none;
+  color:  #fff;
+  width: 225px;
+height: 60px;
+left: 1093px;
+top: 30px;
+width: 225px;
+background: #EF084D;
+border-radius: 30px;
+}
+.taste{
+    font-family: "Poppins";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+color: #FFDD55;
+margin-left: 30px;
+}
+h2{
+    font-family: "Poppins";
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 96px;
+margin-left: 30px;
+color: #FFFFFF;
+}
+.yellow{
+color: #FFDD55;
+
+
+}
+.pic{
+    left: 687px;
+top: 315px;
+}
+.fles{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 30px;
+}
+.lore{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+margin-left: 30px;
+color: #FFFFFF;
+}
+.download{
+    width: 294px;
+height: 70px;
+left: 123px;
+top: 577px;
+color: #FFFFFF;
+background: #EF084D;
+border-radius: 30px;
+}
+
+.images{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    width: 1440px;
+    
+}
+.box{
+    box-sizing: border-box;
+    border-radius: 12px;
+    box-shadow: 0px 0px 3px 0px grey;
+}
+.boxe{
+    box-sizing: border-box;
+    border-radius: 12px;
+    box-shadow: 0px 0px 3px 0px grey;
+  
+}
+.boe{
+    box-sizing: border-box;
+    border-radius: 12px;
+    box-shadow: 0px 0px 3px 0px grey;
+}
+.boo{
+    box-sizing: border-box;
+    border-radius: 12px;
+    box-shadow: 0px 0px 3px 0px grey;
+}
+.lorem{
+    text-align: center;
+    text-decoration: none;
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 12px; 
+}
+h5{
+    text-align: center;
+}
+/*.ust{
+    position: absolute;
+width: 1440px;
+height: 830px;
+left: 0px;
+top: 1173px;
+
+background: rgba(0, 0, 0, 0.4);
+}*/
+.smile{
+    background-image: url("../image/rectangle 14.png");
+    width: 1440px;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+h3{
+    
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+color: #FFFFFF;
+margin-left: 60px;
+}
+.ipsi{
+    
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 36px;
+margin-left: 0px 30px;
+color: #FFFFFF;
+margin-left: 60px;
+}
+.more{
+    position: absolute;
+width: 245px;
+height: 70px;
+left: 58px;
+
+top: 1250px;
+background: #EF084D;
+border-radius: 30px;
+color: #FFFFFF;
+}
+h4{
+   text-align: center;
+   align-items: center;
+position: relative;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+
+
+color: #EF084D;
+}
+.flexes{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.review{
+    position: absolute;
+    width: 473px;
+    height: 200px;
+    left: 1126px;
+    text-align: center;
+    
+    background: rgba(255, 221, 85, 0.75);
+    border-radius: 20px;
+}
+.reviews{
+    position: absolute;
+    width: 473px;
+    height: 200px;
+    left: 563px;
+   text-align: center;
+    
+    background: rgba(255, 221, 85, 0.75);
+    border-radius: 20px;
+}
+.reviewe{
+   
+    position: absolute;
+    width: 473px;
+    height: 200px;
+    left: 0px;
+   text-align: center;
+    
+    background: rgba(255, 221, 85, 0.75);
+    border-radius: 20px;
+}
+.flexy{
+display: flex;
+justify-content: space-between;
+margin-top: 370px;
+}
+.test{
+    position: absolute;
+    width: 473px;
+    height: 200px;
+    left: 0px;
+   text-align: center;
+    
+    background: rgba(255, 221, 85, 0.75);
+    border-radius: 20px;
+}
+.testy{
+    position: absolute;
+    width: 473px;
+    height: 200px;
+    left: 563px;
+   text-align: center;
+    
+    background: rgba(255, 221, 85, 0.75);
+    border-radius: 20px;
+}
+.teste{
+    position: absolute;
+    width: 473px;
+    height: 200px;
+    left: 1126px;
+    text-align: center;
+    
+    background: rgba(255, 221, 85, 0.75);
+    border-radius: 20px; 
+}
+.foot{
+    position: absolute;
+width: 1440px;
+height: 449px;
+left: 0px;
+top: 2720px;
+
+background: #000000;
+}
+.foots{
+    display: flex;
+    justify-content: space-evenly;
+}
+.house{
+    margin-top: 70px;
+    width: 324px;
+    height: 108px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 36px;
+    
+    color: #FFFFFF;
+}
+.ph{
+   
+width: 145px;
+height: 56.5px;
+}
+.about{
+    margin-top: 50px;
+    position: absolute;
+width: 107px;
+height: 36px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.ul-childe{
+    
+width: 152px;
+height: 36px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 36px;
+/* identical to box height */
+
+list-style: none;
+color: #FFFFFF;
+
+}
+.phone{
+    
+width: 31.93px;
+height: 31.77px;
+display: flex;
+justify-content: center;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 36px;
+/* identical to box height */
+margin-bottom: 10px;
+
+color: #FFFFFF;
+
+}
+.mail{
+    width: 31.93px;
+height: 31.77px;
+display: flex;
+justify-content: center;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 36px;
+/* identical to box height */
+margin-top: 10px;
+
+}
+.contact{
+   
+    width: 107px;
+    height: 36px;
+    margin-top: 70px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;  
+}
+.social{
+    width: 152px;
+height: 36px;
+display: flex;
+justify-content: space-between;
+}
+
